@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u *.HTML . ..
+cp -p -u -R /*.HTML . ..
